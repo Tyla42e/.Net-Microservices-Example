@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84ineZQgUgC4+At/TAYx3H0FgXZY+dpGRVPMQjEz8529JOIA4jxNPd6wVzh3BRAJhpNGhYKN4nP4pd0sNnusiQ==",
+  "dgSpecHash": "9RculQK6FzS3JJr9AnuG07YBWmFUsiYO7cipMvB5q75rOqaOVPaAeghkblASHjPKjPrnvRoZdGCtZD82mmmo7Q==",
   "success": true,
-  "projectFilePath": "/home/tyla42e/dev/dotnet/Play,Common/src/Play.Common/Play.Common.csproj",
+  "projectFilePath": "/home/tyla42e/dev/dotnet/PlayMS/Play.Common/src/Play.Common/Play.Common.csproj",
   "expectedPackageFiles": [
     "/home/tyla42e/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/home/tyla42e/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",

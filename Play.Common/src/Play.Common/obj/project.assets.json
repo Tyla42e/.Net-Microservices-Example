@@ -1093,11 +1093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tyla42e/dev/dotnet/Play,Common/src/Play.Common/Play.Common.csproj",
+      "projectUniqueName": "/home/tyla42e/dev/dotnet/PlayMS/Play.Common/src/Play.Common/Play.Common.csproj",
       "projectName": "Play.Common",
-      "projectPath": "/home/tyla42e/dev/dotnet/Play,Common/src/Play.Common/Play.Common.csproj",
+      "projectPath": "/home/tyla42e/dev/dotnet/PlayMS/Play.Common/src/Play.Common/Play.Common.csproj",
       "packagesPath": "/home/tyla42e/.nuget/packages/",
-      "outputPath": "/home/tyla42e/dev/dotnet/Play,Common/src/Play.Common/obj/",
+      "outputPath": "/home/tyla42e/dev/dotnet/PlayMS/Play.Common/src/Play.Common/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tyla42e/.nuget/NuGet/NuGet.Config"
@@ -1106,6 +1106,7 @@
         "net8.0"
       ],
       "sources": {
+        "/home/tyla42e/dev/dotnet/packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
