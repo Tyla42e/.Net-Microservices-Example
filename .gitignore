@@ -1,1 +1,4 @@
-Play.Common/src/Play.Common/obj/Debug/net8.0/refint/Play.Common.dll
+Play.Common/src/Play.Common/obj
+Play.Common/src/Play.Common/bin
+Play.Catalog/src/Play.Common/obj
+Play.Catalog/src/Play.Common/bin
